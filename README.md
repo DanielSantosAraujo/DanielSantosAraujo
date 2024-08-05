@@ -4,6 +4,7 @@
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel12_san/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-santos-developer/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsaraujo718@gmail.com)
+[![website](https://img.shields.io/badge/website-685EA9?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-eosin-theta-44.vercel.app/)
 
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSantosAraujo&show_icons=true&theme=dracula)
